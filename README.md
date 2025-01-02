@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/your-avatar" alt="Мой аватар" width="200"/>
   <h1>👋 Привет всем! Меня зовут Николай</h1>
   <h3>💻 Разработчик из Москвы</h3>
 </div>
@@ -35,9 +34,6 @@
 
 ### 🌐 Где меня найти
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
   <a href="https://t.me/your-profile" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>
   </a>
