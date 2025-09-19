@@ -25,9 +25,9 @@
 
 ### 📊 Статистика GitHub
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NionNet2020&theme=radical" alt="GitHub Profile Details"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NionNet2020&theme=radical" alt="Repos per Language"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NionNet2020&theme=radical" alt="Stats"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NionNet2020&theme=github" alt="GitHub Profile Details"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NionNet2020&theme=github" alt="Repos per Language"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NionNet2020&theme=github" alt="Stats"/>
 </div>
 
 ---
